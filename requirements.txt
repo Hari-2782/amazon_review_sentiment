@@ -1,0 +1,11 @@
+scrapy
+beautifulsoup4
+requests
+pandas
+sqlalchemy
+pymysql
+nltk
+textblob
+seaborn
+plotly
+streamlit
